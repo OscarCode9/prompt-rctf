@@ -1,0 +1,23 @@
+{
+  "skill_name": "prompt-rctf",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Quiero un prompt para que Claude convierta unas notas sueltas en un acta de reunion formal con responsables y fechas. Todavia no se bien como pedirselo.",
+      "expected_output": "La skill debe pedir los datos faltantes de forma breve, especialmente contexto, tarea, formato e informacion basica, y luego construir un prompt RCTF claro.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Mejorame este prompt: redacta un correo para un cliente molesto. Lo necesito mas profesional.",
+      "expected_output": "La skill debe detectar que el prompt es vago, pedir contexto minimo y formato si faltan, y devolver un prompt mejorado con estructura RCTF.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Ayudame a crear una plantilla de prompt para ChatGPT. Trabajo en operaciones y necesito convertir reportes desordenados en resumen ejecutivo de 5 puntos.",
+      "expected_output": "La skill debe reutilizar el contexto ya dado, pedir solo los faltantes relevantes y entregar una plantilla final lista para copiar.",
+      "files": []
+    }
+  ]
+}
