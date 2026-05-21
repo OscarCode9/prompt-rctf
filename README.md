@@ -1,27 +1,27 @@
-# 🤖 Prompt RCTF Skill
+# Prompt RCTF Skill
 
 [![GitHub license](https://img.shields.io/github/license/OscarCode9/prompt-rctf?style=flat-square)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/OscarCode9/prompt-rctf?style=flat-square)](https://github.com/OscarCode9/prompt-rctf/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/OscarCode9/prompt-rctf?style=flat-square)](https://github.com/OscarCode9/prompt-rctf/issues)
 
-Una herramienta inteligente para diseñar, estructurar y optimizar prompts para Modelos de Lenguaje (LLMs) como ChatGPT, Claude y Gemini utilizando el framework **RCTF** (Rol, Contexto, Tarea, Formato).
+Una herramienta inteligente para diseñar, estructurar y optimizar prompts para Modelos de Lenguaje (LLMs) como ChatGPT, Claude y Gemini utilizando el framework RCTF (Rol, Contexto, Tarea, Formato).
 
 ---
 
-## 🚀 ¿Qué es el Framework RCTF?
+## ¿Qué es el Framework RCTF?
 
-El método **RCTF** organiza las instrucciones para que la Inteligencia Artificial entienda con precisión qué hacer y bajo qué condiciones.
+El método RCTF organiza las instrucciones para que la Inteligencia Artificial entienda con precisión qué hacer y bajo qué condiciones.
 
 | Componente | Descripción |
 | :--- | :--- |
-| **👤 Rol** | Define la identidad, tono y expertise que debe asumir la IA. |
-| **📝 Contexto** | Explica la situación de fondo, el público objetivo y la información necesaria. |
-| **🎯 Tarea** | Indica la acción concreta y los pasos específicos que debe realizar. |
-| **📊 Formato** | Detalla la estructura del entregable (tablas, listas, longitud, tono, etc.). |
+| **Rol** | Define la identidad, tono y expertise que debe asumir la IA. |
+| **Contexto** | Explica la situación de fondo, el público objetivo y la información necesaria. |
+| **Tarea** | Indica la acción concreta y los pasos específicos que debe realizar. |
+| **Formato** | Detalla la estructura del entregable (tablas, listas, longitud, tono, etc.). |
 
 ---
 
-## 🛠️ ¿Cómo funciona esta Skill?
+## ¿Cómo funciona esta Skill?
 
 Esta skill guía al usuario de manera conversacional, amigable y eficiente:
 
@@ -32,7 +32,7 @@ Esta skill guía al usuario de manera conversacional, amigable y eficiente:
 
 ---
 
-## 💡 Ejemplos de Uso
+## Ejemplos de Uso
 
 ### Entrada (Input)
 > *"Quiero un prompt para que Claude convierta unas notas sueltas en un acta de reunión formal con responsables y fechas. Todavía no sé bien cómo pedírselo."*
@@ -63,7 +63,7 @@ Información base:
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```bash
 prompt-rctf/
@@ -75,10 +75,10 @@ prompt-rctf/
 
 ---
 
-## 👥 Contribuciones
+## Contribuciones
 
-Las contribuciones son bienvenidas. Si tienes sugerencias para mejorar las plantillas o agregar nuevas evaluaciones, por favor abre un *Issue* o envía un *Pull Request*.
+Las contribuciones son bienvenidas. Si tienes sugerencias para mejorar las plantillas o agregar nuevas evaluaciones, por favor abre un Issue o envía un Pull Request.
 
 ---
 
-Desarrollado con ❤️ por [OscarCode9](https://github.com/OscarCode9).
+Desarrollado por [OscarCode9](https://github.com/OscarCode9).
